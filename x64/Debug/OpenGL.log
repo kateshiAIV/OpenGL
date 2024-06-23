@@ -1,0 +1,12 @@
+﻿  App.cpp
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(233,64): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(233,54): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(233,44): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(235,59): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(235,48): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(235,37): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(301,73): warning C4305: =: усечение из "double" в "float"
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(305,73): warning C4305: =: усечение из "double" в "float"
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(327,58): warning C4244: -=: преобразование "double" в "float", возможна потеря данных
+C:\Users\n0tale\source\repos\OpenGL_project\src\App.cpp(331,58): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  OpenGL.vcxproj -> C:\Users\n0tale\source\repos\OpenGL_project\x64\Debug\OpenGL.exe
